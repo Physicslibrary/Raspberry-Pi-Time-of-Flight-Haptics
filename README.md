@@ -34,6 +34,7 @@ This LRA was manufactured by Jinlong Machinery & Electronics. It is end-of-life 
 
 LRA (linear resonant actuator) are like tuning forks that vibrate in a narrow range of frequency. They are mass-on-a-spring (or magnet-on-a-spring) driven by a magnetic coil.<br>
 
+Note - operating voltage for G0832029D is 0.1 ~ 1.9VrmsAC sine wave. PWM from two unregulated NiMH AA ~2.4V works for the experiment.<br>
 
 ## Software
 
@@ -100,3 +101,7 @@ https://github.com/pimoroni/vl53l1x-python/blob/master/examples/roi.py
 ULA2803A:<br>
 
 https://www.st.com/content/ccc/resource/technical/document/datasheet/e4/fa/1c/16/4e/39/49/04/CD00000179.pdf/files/CD00000179.pdf/jcr:content/translations/en.CD00000179.pdf
+
+G0832029D Linear Resonant Actuator:<br>
+
+https://www.digikey.ca/en/products/detail/jinlong-machinery-electronics-inc/G0832029D/12323588
