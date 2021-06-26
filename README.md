@@ -6,6 +6,12 @@ https://vimeo.com/363561643
 
 This project explores using a Raspberry Pi to oscillate LRA motors with data from a Pimoroni VL53L1X Time of Flight sensor.<br>
 
+<img src="1.jpg" width="512">
+
+<img src="2.jpg" width="512">
+
+<img src="3.jpg" width="512">
+
 ## Hardware
 
 Pi Zero W is used (models A+ and 3B+ work). For this project, it is a wearable device with a small single-core computer.<br>
