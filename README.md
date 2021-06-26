@@ -72,6 +72,12 @@ sudo killall pigpiod<br>
 sudo shutdown now<br>
 
 
+## Programming Raspberry Pi, VL53L1X, and LRA
+
+## Notes
+
+1. The Adafruit PowerBoost 1000 is a DC to DC converter. It takes a voltage as low as 1.8V and bring it up to a stable 5V. Have one so that's why it's in the project. Pololu is another company that makes an extensive selections DC to DC converters suitable for makers' projects.
+
 ## References
 
 Unfolding Space Glove:<br>
