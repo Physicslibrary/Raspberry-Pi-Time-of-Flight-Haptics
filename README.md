@@ -112,7 +112,7 @@ https://github.com/pimoroni/vl53l1x-python/blob/master/examples/roi.py
 
 ULA2803A:<br>
 
-https://www.st.com/content/ccc/resource/technical/document/datasheet/e4/fa/1c/16/4e/39/49/04/CD00000179.pdf/files/CD00000179.pdf/jcr:content/translations/en.CD00000179.pdf
+https://www.st.com/en/interfaces-and-transceivers/uln2803a.html
 
 G0832029D Linear Resonant Actuator:<br>
 
