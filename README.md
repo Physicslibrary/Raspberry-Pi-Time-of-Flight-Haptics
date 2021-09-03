@@ -117,3 +117,5 @@ https://www.st.com/en/interfaces-and-transceivers/uln2803a.html
 G0832029D Linear Resonant Actuator:<br>
 
 https://www.digikey.ca/en/products/detail/jinlong-machinery-electronics-inc/G0832029D/12323588
+
+<br>Copyright (c) 2021 Hartwell Fong
